@@ -24,7 +24,7 @@ export class QuoteDetailsComponent implements OnInit {
 
 
   quoteComplete(complete:boolean){
-    th.isComplete.emit(complete);
+    this.isComplete.emit(complete);
   }
 
 
