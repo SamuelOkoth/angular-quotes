@@ -12,7 +12,7 @@ No Known bugs so far
 
 ## Technologies Used
 1. HTML
-2. Bootstrap
+2. css
 3. Angular JS
 
 ## Further help
